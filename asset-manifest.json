@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LLM-InteractiveStreamGraph/static/css/main.4d39670d.css",
+    "main.js": "/LLM-InteractiveStreamGraph/static/js/main.53f1047d.js",
+    "index.html": "/LLM-InteractiveStreamGraph/index.html",
+    "main.4d39670d.css.map": "/LLM-InteractiveStreamGraph/static/css/main.4d39670d.css.map",
+    "main.53f1047d.js.map": "/LLM-InteractiveStreamGraph/static/js/main.53f1047d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d39670d.css",
+    "static/js/main.53f1047d.js"
+  ]
+}
